@@ -8,7 +8,7 @@
     "triggerAllTest-headless": "npx cypress run",
     "triggerAllTest-headed": "npx cypress run --headed",
     "triggerAllTest-chrome": "npx cypress run --browser chrome",
-    "triggerAllTest-dashboard": "npx cypress run --record --key 70bc6b76-c966-4db7-843a-7f4c2acce91b",
+    "triggerAllTest-dashboard": "npx cypress run --record --key 43b71d4f-d166-420d-b31c-7dc31b071aa0",
     "triggerAllTest-webdriveruni": "npx cypress run --spec cypress/e2e/webdriver-uni/*",
     "triggerAllTest-autostore": "npx cypress run --spec cypress/e2e/automation-test-store/*",
     "triggerAllTest-autostore-dashboard": "npx cypress run --spec cypress/e2e/automation-test-store/* --record --key 70bc6b76-c966-4db7-843a-7f4c2acce91b",
